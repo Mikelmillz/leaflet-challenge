@@ -1,5 +1,7 @@
 # leaflet-challenge
 
+Link to my dashboard
+
 Part 1: Create the Earthquake Visualization
 ![image](https://github.com/Mikelmillz/leaflet-challenge/assets/145722846/378c44e3-043a-4e2e-9897-bb505d802824)
 
