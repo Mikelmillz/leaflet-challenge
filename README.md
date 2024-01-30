@@ -70,4 +70,6 @@ Data points colors change with depth level (10 points)
 Each point has a tooltip with the Magnitude, the location and depth (10 points)
 
 All data points load in the correct locations (10 points) 
-https://leaflet-extras.github.io/leaflet-providers/preview/ for the watercolor map.
+
+The cool map layer I found was here:
+https://leaflet-extras.github.io/leaflet-providers/preview/.
