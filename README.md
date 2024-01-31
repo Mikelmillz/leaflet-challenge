@@ -1,1 +1,1 @@
-[Link here]([https://pages.github.com/](https://mikelmillz.github.io/leaflet-challenge/Starter_Code/index.html)
+[Link here](https://mikelmillz.github.io/leaflet-challenge/blob/main/Leaflet-Part-1/Starter_Code/index.html)
